@@ -1,4 +1,4 @@
 // Fonction de connexion
-function login() {
+function handleLogin() {
   console.log("Connexion...");
 }
